@@ -1,1 +1,0 @@
-let artista = "Taylor Swift";
